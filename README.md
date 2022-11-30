@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soraew
-- 👀 I’m interested in ... network science, machine learning, deep learning
+- 👀 I’m interested in ... statistics, network science, machine learning, deep learning
 - 🌱 I’m currently learning ... data science at Nagoya University
 
 <!---
